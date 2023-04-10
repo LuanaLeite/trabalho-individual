@@ -1,6 +1,6 @@
 # Introdução a Data Science - Trabalho em Individual realizado para a disciplina de Tópicos Especiais em Marketing II
 
-Objetivo do trabalho: o objetivo geral do TI é desenvolver um projeto completo de data science, conforme roadmap visto na aula 1, com tema de livre escolha. O projeto completo será entregue no final do semestre.
+Objetivo do trabalho: o objetivo geral do TI é desenvolver um projeto completo de data science, conforme roadmap visto na aula 1, com tema de livre escolha. 
 
 **A empresa**: vende produtos de emagrecimento via canais digitais. Conta com uma audiência de mais de 6M de inscritos no Youtube e, aproximadamente, 980mil seguidores no Instagram. Além da produção de conteúdo orgânico, utilização de estratégias de lançamento de produto, a empresa também investe cerca de R$800 mil reais em tráfego pago por mês para captação de leads. 
 
